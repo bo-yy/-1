@@ -1,4 +1,7 @@
-"CameraFollowStaticField": "<FOMMANKAEHB>k__BackingField",
+{
+  "data": {
+    "CameraFollowClass": "CameraFollow",
+    "CameraFollowStaticField": "<FOMMANKAEHB>k__BackingField",
     "CoffinInteractionOpenOffset": "0x648",
     "CoffinStateOffset": "0x5E0",
     "DictionaryCountOffset": "0x20",
