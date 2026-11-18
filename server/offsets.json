@@ -1,8 +1,8 @@
 {
   "allowed": true,
   "config": {
-    "revision": 2,
-    "updated_at": "2026-11-18T21:30:00+08:00",
+    "revision": 3,
+    "updated_at": "2026-11-18T22:10:00+08:00",
     "classes": {
       "UGC2ObjectInteract": ["PBEDOEHJEIA", "LLBMIEHLEKJ"],
       "CameraFollow": ["CameraFollow", "<OMIJMCJBAIJ>k__BackingField"],
@@ -102,7 +102,16 @@
       "ObjectVector2": "0x33C",
       "ObjectVector3": "0x34C",
       "ObjectVector4": "0x37C",
-      "ObjectVector5": "0x388"
+      "ObjectVector5": "0x388",
+      "CoffinMap_DirectionX": "0xCC",
+      "CoffinMap_DirectionY": "0xD0",
+      "CoffinMap_VisibleFlag": "0xD4",
+      "CoffinMap_Angle": "0xD8",
+      "MiniMapSystemValue0": "0xCC",
+      "MiniMapSystemValue1": "0xD0",
+      "MiniMapSystemValue2": "0xD4",
+      "MiniMapSystemValue3": "0xD8",
+      "MiniMap_UIReference": "0x390"
     },
     "pointer_chains": {
       "UGC2ObjectInteractUI_Chain": ["0x10", "0x1890", "0x0"],
