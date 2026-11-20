@@ -1,30 +1,33 @@
+
 {
   "allowed": true,
   "config": {
-    "revision": 4,
-    "updated_at": "2026-11-19T17:55:00+08:00",
+    "revision": 5,
+    "updated_at": "2026-11-20T07:55:16+08:00",
     "classes": {
       "UGC2ObjectInteract": [
-        "GNDAFGFFLEF",
-        "FPEAIDMOOOD"
+        "LNLDLHAANHI",
+        "LHMANDGOMHL"
       ],
       "CameraFollow": [
         "CameraFollow",
-        "<LLJEODLALAN>k__BackingField"
+        "<HPEMMGGLKAC>k__BackingField"
       ],
       "UGCTerrain": [
-        "GCKFLIFAKNC",
-        "KAAHLFBNFEB"
+        "FPMKKCFLIPM",
+        "NMKIIJEIAFA"
       ],
       "LocalPlayer_Position": [
-        "CAHPMKLOJPJ"
+        "EJFIFCEIMPB",
+        "HHEJLKGBPOC"
       ],
       "MiniMapSystem": [
-        "GNDAFGFFLEF",
-        "OLJDGBGPCMM"
+        "LNLDLHAANHI",
+        "HKHKKKHPAMB"
       ],
       "WorldObject_Position": [
-        "DHNCPEOPPBN"
+        "MEEKFGFPLKO",
+        "HHEJLKGBPOC"
       ],
       "MonsterEntity": [
         "MKPLILDCEEH"
@@ -48,8 +51,8 @@
         "argc": 0
       },
       "RevealAndUnlockForGuide": {
-        "class": "JJDGPFIBBKL",
-        "name": "KHGHPHNCFMN",
+        "class": "JHMLCGIBBFM",
+        "name": "NLCKKCEODPC",
         "argc": 2
       }
     },
