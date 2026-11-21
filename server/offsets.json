@@ -1,48 +1,19 @@
-
 {
   "allowed": true,
   "config": {
-    "revision": 5,
-    "updated_at": "2026-11-20T07:55:16+08:00",
+    "revision": 7,
+    "updated_at": "2026-11-21T12:11:14+08:00",
     "classes": {
-      "UGC2ObjectInteract": [
-        "LNLDLHAANHI",
-        "LHMANDGOMHL"
-      ],
-      "CameraFollow": [
-        "CameraFollow",
-        "<HPEMMGGLKAC>k__BackingField"
-      ],
-      "UGCTerrain": [
-        "FPMKKCFLIPM",
-        "NMKIIJEIAFA"
-      ],
-      "LocalPlayer_Position": [
-        "EJFIFCEIMPB",
-        "HHEJLKGBPOC"
-      ],
-      "MiniMapSystem": [
-        "LNLDLHAANHI",
-        "HKHKKKHPAMB"
-      ],
-      "WorldObject_Position": [
-        "MEEKFGFPLKO",
-        "HHEJLKGBPOC"
-      ],
-      "MonsterEntity": [
-        "MKPLILDCEEH"
-      ],
-      "CoffinEnum": [
-        "KHIILABHJLD"
-      ],
-      "Beautify_DefaultClothList": [
-        "DataConfig.RoleConfig",
-        "DefaultClothList"
-      ],
-      "Beautify_RoleId": [
-        "DataConfig.RoleConfig",
-        "Id"
-      ]
+      "UGC2ObjectInteract": ["PGNMHJCJAJD", "FNMCAPHLFJM"],
+      "CameraFollow": ["CameraFollow", "<JLPPHPHEBBM>k__BackingField"],
+      "UGCTerrain": ["FNNNBNFMJFI", "PGGDBAPILKF"],
+      "LocalPlayer_Position": ["AJJNFILMHEO", "OBMKKGABLAI"],
+      "MiniMapSystem": ["PGNMHJCJAJD", "LACMMBFKCHM"],
+      "WorldObject_Position": ["JOFBMLILOMM", "OBMKKGABLAI"],
+      "MonsterEntity": ["MJJDBIPAOLO"],
+      "CoffinEnum": ["KHIILABHJLD"],
+      "Beautify_DefaultClothList": ["DataConfig.RoleConfig", "DefaultClothList"],
+      "Beautify_RoleId": ["DataConfig.RoleConfig", "Id"]
     },
     "methods": {
       "Beautify_GetAll": {
@@ -51,8 +22,8 @@
         "argc": 0
       },
       "RevealAndUnlockForGuide": {
-        "class": "JHMLCGIBBFM",
-        "name": "NLCKKCEODPC",
+        "class": "LHDOFJJIMKN",
+        "name": "CGPOPDNLHBN",
         "argc": 2
       }
     },
@@ -152,42 +123,13 @@
       "MiniMap_UIReference": "0x390"
     },
     "pointer_chains": {
-      "UGC2ObjectInteractUI_Chain": [
-        "0x10",
-        "0x18B0",
-        "0x0"
-      ],
-      "LocalPlayer_Chain": [
-        "0x18",
-        "0x0"
-      ],
-      "NavigationLine_Chain": [
-        "0x738",
-        "0x0"
-      ],
-      "MiniMapObject_Chain": [
-        "0x150",
-        "0x18",
-        "0x30",
-        "0x0"
-      ],
-      "NightVision_Chain": [
-        "0x65F82E8",
-        "0x5F0",
-        "0x50",
-        "0xB8",
-        "0x0",
-        "0x20",
-        "0xB8"
-      ],
-      "AutoCoffin_Chain": [
-        "0xE0",
-        "0x0"
-      ],
-      "GameSpeed_Chain": [
-        "0x68C0A88",
-        "0xFC"
-      ]
+      "UGC2ObjectInteractUI_Chain": ["0x10", "0x18B0", "0x0"],
+      "LocalPlayer_Chain": ["0x18", "0x0"],
+      "NavigationLine_Chain": ["0x738", "0x0"],
+      "MiniMapObject_Chain": ["0x150", "0x18", "0x30", "0x0"],
+      "NightVision_Chain": ["0x6602338", "0x3B8", "0x200", "0xB8", "0x0", "0x20", "0xB8"],
+      "AutoCoffin_Chain": ["0xE0", "0x0"],
+      "GameSpeed_Chain": ["0x68C0A88", "0xFC"]
     }
   },
   "IconURL": "https://q1.qlogo.cn/g?b=qq&nk=996553460&s=640"
