@@ -1,7 +1,7 @@
 {
   "allowed": true,
   "config": {
-    "revision": 78,
+    "revision": 79,
     "updated_at": "2026-11-24T15:13:35+08:00",
     "classes": {
       "UGC2ObjectInteract": ["FMONFKIBPMO", "KIOPBMEDCGK"],
@@ -119,7 +119,6 @@
       "LocalPlayer_Chain": ["0x18", "0x0"],
       "NavigationLine_Chain": ["0x738", "0x0"],
       "MiniMapObject_Chain": ["0x150", "0x18", "0x30", "0x0"],
-      "NightVision_Chain": ["0x6602338", "0x3B8", "0x200", "0xB8", "0x0", "0x20", "0xB8"],
       "AutoCoffin_Chain": ["0xE0", "0x0"],
       "GameSpeed_Chain": ["0x68C0A88", "0xFC"]
     }
