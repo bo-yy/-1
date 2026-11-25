@@ -1,31 +1,23 @@
 {
   "allowed": true,
   "config": {
-    "revision": 7,
-    "updated_at": "2026-11-21T12:11:14+08:00",
+    "revision": 78,
+    "updated_at": "2026-11-24T15:13:35+08:00",
     "classes": {
-      "UGC2ObjectInteract": ["PGNMHJCJAJD", "FNMCAPHLFJM"],
-      "CameraFollow": ["CameraFollow", "<JLPPHPHEBBM>k__BackingField"],
-      "UGCTerrain": ["FNNNBNFMJFI", "PGGDBAPILKF"],
-      "LocalPlayer_Position": ["AJJNFILMHEO", "OBMKKGABLAI"],
-      "MiniMapSystem": ["PGNMHJCJAJD", "LACMMBFKCHM"],
-      "WorldObject_Position": ["JOFBMLILOMM", "OBMKKGABLAI"],
+      "UGC2ObjectInteract": ["FMONFKIBPMO", "KIOPBMEDCGK"],
+      "CameraFollow": ["CameraFollow", "<KONKNNAPBOA>k__BackingField"],
+      "UGCTerrain": ["EHBNAIFPJPC", "AIJPMKCNDLE"],
+      "LocalPlayer_Position": ["JNGMLEPIFAM", "DJMKGHMECGC"],
+      "MiniMapSystem": ["FMONFKIBPMO", "MDDPEHHACLD"],
+      "WorldObject_Position": ["HGNJDAGMJDK", "DJMKGHMECGC"],
       "MonsterEntity": ["MJJDBIPAOLO"],
       "CoffinEnum": ["KHIILABHJLD"],
       "Beautify_DefaultClothList": ["DataConfig.RoleConfig", "DefaultClothList"],
       "Beautify_RoleId": ["DataConfig.RoleConfig", "Id"]
     },
     "methods": {
-      "Beautify_GetAll": {
-        "class": "DataConfig.RoleConfigTable",
-        "name": "GetAll",
-        "argc": 0
-      },
-      "RevealAndUnlockForGuide": {
-        "class": "LHDOFJJIMKN",
-        "name": "CGPOPDNLHBN",
-        "argc": 2
-      }
+      "Beautify_GetAll": { "class": "DataConfig.RoleConfigTable", "name": "GetAll", "argc": 0 },
+      "RevealAndUnlockForGuide": { "class": "EFBDBGHMJLG", "name": "IBGKIMKNPFI", "argc": 2 }
     },
     "offsets": {
       "Dictionary_EntryStride": "0x18",
